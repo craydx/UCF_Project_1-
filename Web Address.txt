@@ -1,7 +1,3 @@
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 https://chronicdata.cdc.gov/resource/f8ti-h92k.json
-
-https://github.com/craydx/UCF_Project_1-.git
-
-https://dev.socrata.com/foundry/chronicdata.cdc.gov/f8ti-h92k
